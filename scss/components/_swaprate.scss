@@ -1,0 +1,11 @@
+.swap-rate-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rate {
+  color: $color-primary;
+  font-size: 1.4rem;
+  padding: 0 1rem;
+}
